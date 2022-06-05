@@ -1,4 +1,4 @@
-package com.oothan.spring.didemo.services;
+package com.oothan.spring.services;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;

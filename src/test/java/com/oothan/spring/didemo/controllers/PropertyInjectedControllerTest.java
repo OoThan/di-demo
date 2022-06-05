@@ -1,6 +1,6 @@
 package com.oothan.spring.didemo.controllers;
 
-import com.oothan.spring.didemo.services.GreetingServiceImpl;
+import com.oothan.spring.services.GreetingServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
